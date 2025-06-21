@@ -1,0 +1,75 @@
+
+    okelah coba satiya gas bkna analisa cobak2 lun aplikasina, degik nyaman kare mamasok ka metolit. ye ?
+    cobak2 semua fitur2nya lu. besok hasilnya apa yg sudah saya lakukan
+
+    <div class="maksudta"></div>
+    satiya sampek degghik engkok nyobak a langsung angghuy 2 metode kombinasi.
+
+    iye nyaman langsung agebey la bei ka cgpt,
+
+
+
+    jadi :
+    1. ciptakan double enkripsi dengan data
+    2. jriya pertama analisa kebutuhan lu, 
+
+    kebutuhan fungsional :
+    - sistem dapat mengenkripsi data dengan metode double  enkripsi rsa dan sha
+    - data yang tersimpan dalam database dalam bentuk output setelah melalui proses double enkrispi
+    - 
+
+
+    •  Arsitektur Sistem:
+    - proses enkripsi menyesuaikan dengan bahasa pemrograman aplikasi yang sedang diteliti yaitu PHP
+    - database pakai mysql
+    - 
+
+    ada 8 tabel. ini strukturnya, screenshot bhei la. polana bekna benni perancangan, 
+
+    iye jeriya sturcture nya se e screenshot.
+
+    pakai aplikasi atau ekstensi rolling screenshot. iye kakabbi jriya, per tabel
+    benni rapotta malolo?
+    iyela rapotta malolo, degik mon pak diksi minta semua tabel, kare arevisi
+    mare tabel? 
+
+    oke siap, besok bisa katemu?
+    padat gik, alalabede ka bws, jadwal servis tv dr bws tukang svc nya, pas lalakun benyak.
+    se ngkok bei gik tak egerep sistemma
+
+    cobak gerep lun e chat gpt, sabek e word terpisah lu.
+
+"    metode enkripsi double dengan rsa dan aes 256 untuk data nilai, berikan contoh script dengan menggunakan php "
+
+ok ?
+se penting proposal mare kaadek, mak lekkas sempro
+oiye gerebhen sistem kan setelah sempro ye ?
+iye, mangkana pak diksi abele sambil garrap proposal , garap sistemnya jjuga
+
+iye ye, brarti jriya kita cuma butuh untuk nambahkan kutipan kutipan dari referensi atau beremma tak paham ngkok.
+iye se bab 2 masena korang, mare jeeria ka pak diksi
+iye mara gas lah.
+cobak gerep lun mara, pas kerem ka pak diksi,
+
+pak diksi masena cukup kirim lewat file aja mas kalau mau ketemu klau emang dari smean ada yang dibingungkan banget gitu baru ketemu,
+
+berrik ngocak ngak uwa
+jeria bkna lah bingung se kutipan2
+ye ngala k deri jurnal sak.
+
+misal jurnal tentang RSA, ambil 1 kalimat tentang pengertian rsa
+misal jurnal tentang aes, ambil 1 kalimat tentang pengertian aes
+tentang kriptografi, enkripsi,
+gey betambe gun e bab 2
+iyeee
+aria end lha?
+
+iye apa se posang gik
+bkna likwitta bede ghik? se adit ejhuel ka engkok
+iye aria kare saparo kalak, tak nyaman ka ngkok la catridge e. kan olle 2.
+iye tak e esseana lq riya, le tak cambur.
+
+se leci ruwa nyaman tak pate tinggi nik nya, eporopoa bhei lah ye, engkok mellia se rua
+ella, ngkok  kan ajenji kalak bkna on la kare, kan bkna aberrik 50 ka engkok, arua se ekabellie
+
+lengkapi lun dari analisa sistem ruwa sak ye

@@ -1,0 +1,17 @@
+                                                <h6>&nbsp;&nbsp;&nbsp; B. Akidah Akhlaq</h6>
+                                                
+                                                
+                                               <div class="col">
+                                                    <label class="form-label">Nilai sebelumnya</label><br>
+                                                    <button type="button" class="btn btn-primary btn-sm" disabled>
+                                                     <?= dekripsiData($student['p_aa_nilai']); ?>
+                                                    </button>
+                                                </div>
+
+                                                    ="<?= dekripsiData($student['p_aa_nilai']); ?>"
+                                                    
+                <input type="number" class="form-control" name="p_aa_nilai" min="0" max="100" value="<?= dekripsiData($student['p_aa_nilai']); ?>">
+
+
+
+                                                <?= dekripsiNilai($raporData['p_qurdis_nilai']); ?>
